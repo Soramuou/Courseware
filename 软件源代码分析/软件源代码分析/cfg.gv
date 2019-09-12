@@ -1,0 +1,49 @@
+digraph cfg {
+	0 [label="D: {'max', 'i', 'n'}
+ U: set()
+0" color=orange]
+	0 -> 1 [color=green]
+	1 [label="D: set()
+ U: {'max', 'n'}
+1" color=orange]
+	1 -> 2 [color=green]
+	2 [label="D: {'k', 'j'}
+ U: {'i'}
+2" color=orange]
+	2 -> 3 [color=green]
+	3 [label="D: set()
+ U: {'j'}
+3" color=orange]
+	3 -> 10 [color=green]
+	10 [label="D: set()
+ U: {'max', 'k'}
+10" color=orange]
+	10 -> 12 [color=green]
+	12 [label="D: {'max', 'maxi'}
+ U: {'max', 'maxi', 'k', 'i'}
+12" color=orange]
+	12 -> 11 [color=green]
+	11 [label="D: {'i'}
+ U: {'i'}
+11" color=orange]
+	11 -> 1 [color=green]
+	10 -> 11 [color=green]
+	3 -> 5 [color=green]
+	5 [label="D: set()
+ U: {'j'}
+5" color=orange]
+	5 -> 7 [color=green]
+	7 [label="D: {'k', 'j'}
+ U: {'k', 'j'}
+7" color=orange]
+	7 -> 3 [color=green]
+	5 -> 8 [color=green]
+	8 [label="D: {'k', 'j'}
+ U: {'k', 'j'}
+8" color=orange]
+	8 -> 3 [color=green]
+	1 -> 13 [color=green]
+	13 [label="D: set()
+ U: {'max', 'maxi'}
+13" color=orange]
+}
