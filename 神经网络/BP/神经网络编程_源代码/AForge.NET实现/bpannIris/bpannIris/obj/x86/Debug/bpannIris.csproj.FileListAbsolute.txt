@@ -1,0 +1,12 @@
+C:\Users\heaad\Desktop\bpannIris\bpannIris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\heaad\Desktop\bpannIris\bpannIris\bin\Debug\bpannIris.exe
+C:\Users\heaad\Desktop\bpannIris\bpannIris\bin\Debug\bpannIris.pdb
+C:\Users\heaad\Desktop\bpannIris\bpannIris\obj\x86\Debug\bpannIris.exe
+C:\Users\heaad\Desktop\bpannIris\bpannIris\obj\x86\Debug\bpannIris.pdb
+C:\Users\heaad\Desktop\人工智能作业\bpannIris\bpannIris\obj\x86\Debug\bpannIris.exe
+C:\Users\heaad\Desktop\人工智能作业\bpannIris\bpannIris\obj\x86\Debug\bpannIris.pdb
+C:\Users\heaad\Desktop\人工智能作业\bpannIris\bpannIris\bin\Debug\bpannIris.exe
+C:\Users\heaad\Desktop\人工智能作业\bpannIris\bpannIris\bin\Debug\bpannIris.pdb
+C:\Users\heaad\Desktop\人工智能作业\bpannIris\bpannIris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\heaad\Desktop\人工智能导引课程设计___莫树聪___21021157\源代码\AForge.NET实现\bpannIris\bpannIris\obj\x86\Debug\bpannIris.exe
+C:\Users\heaad\Desktop\人工智能导引课程设计___莫树聪___21021157\源代码\AForge.NET实现\bpannIris\bpannIris\obj\x86\Debug\bpannIris.pdb
